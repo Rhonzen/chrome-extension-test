@@ -1,0 +1,47 @@
+.hide {
+    display: none;
+}
+
+.analyse-button {
+    color: #1d9bf0;
+    background-color: white;
+    padding: 5px;
+    border: 1px solid #1d9bf0;
+    border-radius: 3px;
+    cursor: pointer;
+    display: block;
+    position: relative;
+    left: 85%;
+}
+
+.analyse-button:hover {
+    color: white;
+    background-color: #1d9bf0;
+}
+
+.claims-box {
+    font-family: Arial, Helvetica, sans-serif;
+    width: 100%;
+}
+
+.claim-container {
+    margin-bottom: 15px;
+}
+
+hr {
+    border-top: 1px solid rgb(212, 212, 212);
+    border-right: 0;
+    border-left: 0;
+    border-bottom: 0;
+    border-color: rgb(223, 223, 223);
+    margin: 0;
+}
+
+.claim-header {
+    font-size: 1em;
+    padding-left: 5%;
+}
+
+.analysis {
+    padding-left: 5%;
+}
